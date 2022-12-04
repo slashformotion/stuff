@@ -1,0 +1,1 @@
+<https://blog.sapiensworks.com/post/2014/06/02/The-Repository-Pattern-For-Dummies.aspx>
