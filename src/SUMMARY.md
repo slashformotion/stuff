@@ -11,6 +11,7 @@
   - [Environnements de Bureau (DE)](./linux/de.md)
   - [Bus CAN](./linux/bus-can.md)
   - [Uart](./linux/uart.md)
+  - [Nix](./linux/nix.md)
 - [Programmation](programmation/index.md)
   - [Golang](./programmation/golang.md)
 - [Autres]()    
