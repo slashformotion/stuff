@@ -3,7 +3,7 @@
 J'utilise Linux depuis environ 7 ans. J'ai utilisé (par ordre de temps passé dessus décroissant): 
 - ArchLinux
 - Manjaro
-- Ubuntu (et dérivée [^1])
+- Ubuntu (et dérivées [^1])
 - Debian
 - Solus
 
