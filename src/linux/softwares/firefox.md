@@ -19,3 +19,11 @@ Les extensions pratiques:
 - [Awesome RSS](https://addons.mozilla.org/fr/firefox/addon/awesome-rss/) : Ajoute un bouton RSS dans la barre d'URL.
 
 [^repogithub]:J'ai créé un [repo github](https://github.com/slashformotion/ublacklist) qui contient les listes qui m'intéresse + ma propre liste)
+
+## Configuration
+
+> Pour aller dans le tableau des confs: `about:config`.
+
+Depuis quelques versions, Firefox cache les extensions dans un sous-menu, ce qui n'est pas à mon goût:
+    
+Changez `extensions.unifiedExtensions.enabled` à `false`.
