@@ -5,8 +5,8 @@
 
 ## Développement
 
-- Editeurs de code : [Neovim](https://neovim.io/) pour les modifications légères et pour du développement plus poussé, j'utilise [VSCode](https://vscodium.com/).
-- Le meilleur client git que j'ai pu essayer: [Sublim Merge](https://www.sublimemerge.com/).
+- Editeurs de code : [Helix](https://helix-editor.com/) pour les modifications légères et pour du développement plus poussé, j'utilise [VSCode](https://vscodium.com/).
+- Le meilleur client git que j'ai pu essayer (GUI): [Sublim Merge](https://www.sublimemerge.com/), sinon je recommende [gitui](https://github.com/extrawurst/gitui).
 - Mind mapping : [Minder](https://github.com/phase1geo/Minder)
 
 ## Graphique
