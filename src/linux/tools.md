@@ -52,3 +52,16 @@ Installer avec cargo:
 cargo install gitui
 ```
 
+## FIP-Player
+
+FIP-Player est un lecteur webradios publiques françaises. 
+
+Repo: <https://github.com/DucNg/fip-player>
+
+```shell
+# il faut installer libmpv
+
+# on fedora
+sudo dnf install mpv-devel
+go install github.com/DucNg/fip-player@latest
+```
