@@ -12,6 +12,7 @@ Cheatsheet: <https://wch.github.io/latexsheet/latexsheet.pdf>
 - [Le site latextemplates.com](https://www.latextemplates.com/cat/curricula-vitae).
 - [La formation LaTeX de Silmaril Consultants](http://latex.silmaril.ie/formattinginformation/index.html).
 - [La DOC de LaTeX (non officielle)](https://latexref.xyz/)
+- [Creating Fully Reproducible, PDF/A Compliant Documents in LaTeX](https://shen.hong.io/reproducible-pdfa-compliant-latex/)
 
 ## Articles d'opinion
 
