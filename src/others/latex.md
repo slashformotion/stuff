@@ -13,6 +13,9 @@ Cheatsheet: <https://wch.github.io/latexsheet/latexsheet.pdf>
 - [La formation LaTeX de Silmaril Consultants](http://latex.silmaril.ie/formattinginformation/index.html).
 - [La DOC de LaTeX (non officielle)](https://latexref.xyz/)
 
+## Articles d'opinion
+
+- [The LaTeX fetish (Or: Don’t write in LaTeX! It’s just for typesetting)](http://www.danielallington.net/2016/09/the-latex-fetish/): un article intéressant sur l'inutilité et la perte de temps que serait l'écriture de contenu directement en LaTeX.
 
 ### Latexmk
 
