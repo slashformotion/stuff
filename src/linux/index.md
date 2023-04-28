@@ -12,3 +12,7 @@ J'encourage tout le monde, y compris les plus novice à apprendre à utiliser Li
 
 ---
 [^1]: elle ne sont pas si différentes que ça... 
+
+### MS fonts sur linux
+
+Instructions: <https://www.howtogeek.com/769894/how-to-install-google-and-microsoft-fonts-on-linux/>
