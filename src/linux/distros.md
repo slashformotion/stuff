@@ -120,3 +120,11 @@ sudo dnf group upgrade --with-optional Multimedia
 sudo dnf config-manager --set-enabled fedora-cisco-openh264
 sudo dnf install -y gstreamer1-plugin-openh264 mozilla-openh264 mpv
 ```
+
+LibreWolf
+
+<https://librewolf.net/installation/fedora/>
+```
+sudo dnf config-manager --add-repo https://rpm.librewolf.net/librewolf-repo.repo
+sudo dnf install librewolf
+```
