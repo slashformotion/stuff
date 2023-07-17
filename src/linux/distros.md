@@ -128,3 +128,9 @@ LibreWolf
 sudo dnf config-manager --add-repo https://rpm.librewolf.net/librewolf-repo.repo
 sudo dnf install librewolf
 ```
+
+Git subtree <https://packages.fedoraproject.org/pkgs/git/git-subtree/>
+
+```sh
+sudo dnf install git-subtree
+```
