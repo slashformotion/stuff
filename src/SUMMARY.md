@@ -18,3 +18,4 @@
   - [Golang](./programmation/golang.md)
 - [Autres]()    
   - [Latex](./others/latex.md)
+  - [Typst](./others/typst.md)
