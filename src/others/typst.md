@@ -6,3 +6,4 @@ Typst est un language de typsetting similaire  à LaTeX, il permet de créer des
 
 - [Docs officielles](https://typst.app/docs)
 
+

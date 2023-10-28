@@ -11,10 +11,19 @@ Installation avec cargo
 cargo install texlab
 ```
 
+### Typst
+
+Repo: <https://github.com/nvarner/typst-lsp>
+
+Installation avec cargo
+```sh
+cargo install --locked --git https://github.com/nvarner/typst-lsp
+```
+
 ### Markdown 
 
 Repo: <https://github.com/artempyanykh/marksman>
 
-Instructions d'installation: <https://github.com/artempyanykh/marksman#option-2-use-pre-built-binary>
+Instructions d'installation: <https://github.com/artempyanykh/marksman/blob/main/docs/install.md>
 
 

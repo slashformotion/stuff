@@ -6,7 +6,7 @@ Sur cette page vous allez trouver des notes sur différentes distributions linux
 
 Un des meilleurs guide d'after install pour fedora par [*Willi Mutschler*](https://mutschler.dev/): [Fedora Workstation: Things to do after installation (Apps, Settings, and Tweaks)](https://mutschler.dev/linux/fedora-post-install/)
 
-Note à moi-même: 
+Notes à moi-même: 
 *Fix DNF*
 ```
 sudo dnf install -y  https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
@@ -133,4 +133,30 @@ Git subtree <https://packages.fedoraproject.org/pkgs/git/git-subtree/>
 
 ```sh
 sudo dnf install git-subtree
+```
+
+
+
+
+### Dev tools
+
+### Gitui
+
+repo <https://github.com/extrawurst/gitui>
+```sh
+cargo install --locked --git https://github.com/extrawurst/gitui
+```
+
+### Zellij
+
+repo <https://github.com/zellij-org/zellij>
+```sh
+cargo install --locked zellij
+```
+
+### Lazydocker
+
+repo <https://github.com/extrawurst/gitui>
+```sh
+go install github.com/jesseduffield/lazydocker@latest
 ```
