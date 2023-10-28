@@ -14,12 +14,16 @@ Les indispensables:
 
 Les extensions pratiques:
 
+- [Dark Reader](https://addons.mozilla.org/fr/firefox/addon/darkreader): Dark theme everywhere
+- [Dark Reader](https://addons.mozilla.org/fr/firefox/addon/facebook-container): Facebook conteneur.
+- [Dark Reader](https://addons.mozilla.org/fr/firefox/addon/gesturefy): Naviguez avec les gestes de la souris !
+- [Bitwarden](https://addons.mozilla.org/fr/firefox/addon/bitwarden-password-manager): Dark theme everywhere
 - [Bit It Now!](https://addons.mozilla.org/fr/firefox/addon/bibitnow/) : Cette extension génère des snippets Bibtex pour la page web courante.
 - [uBlacklist](https://addons.mozilla.org/fr/firefox/addon/ublacklist/) : Une extension incroyable qui permet d'empêcher certains sites d'apparaitre dans les résultats des grands moteurs de recherches. On peut ajouter ses propres blocklist ou celles d'autres utilisateurs[^repogithub].
 - [Awesome RSS](https://addons.mozilla.org/fr/firefox/addon/awesome-rss/) : Ajoute un bouton RSS dans la barre d'URL.
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/): Valide les popup cookies automatiquement.
 
-[^repogithub]:J'ai créé un [repo github](https://github.com/slashformotion/ublacklist) qui contient les listes qui m'intéresse + ma propre liste)
+[^repogithub]:J'ai créé un [repo github](https://github.com/slashformotion/ublacklist) qui contient les listes qui m'intéresse + ma propre liste.
 
 ## Configuration
 

@@ -2,5 +2,10 @@
     "cSpell.language": "fr, en",
     "cSpell.words": [
         "Kerhoas"
+    ],
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext"
     ]
 }
