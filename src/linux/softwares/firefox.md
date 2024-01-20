@@ -9,6 +9,7 @@ Utiliser firefox sans extensions c'est un peu comme sortir marcher dans la neige
 Les indispensables:
 
 - [ublock-origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) : Le seul, l'unique bloqueur de pub nécéssaire à une navigation saine sur le web.
+  - https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt => block YT shorts
 - [decentraleys](https://decentraleyes.org/) : Une extension qui va garder en cache les assets des cdns pour éviter de trop leur donner de données. Cette extension devrait aussi réduire *un peu* la consommation de bande passante.
 - [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) : Redirige les requêtes de Twitter, YouTube, Instagram et Google Maps vers des alternatives respectueuses de la vie privée.
 
