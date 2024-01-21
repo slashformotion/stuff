@@ -27,3 +27,8 @@ Repo: <https://github.com/artempyanykh/marksman>
 Instructions d'installation: <https://github.com/artempyanykh/marksman/blob/main/docs/install.md>
 
 
+### TOML
+
+Repo: <https://github.com/tamasfe/taplo/tree/master>
+
+Instruction d'installation: <https://taplo.tamasfe.dev>
