@@ -160,3 +160,10 @@ repo <https://github.com/extrawurst/gitui>
 ```sh
 go install github.com/jesseduffield/lazydocker@latest
 ```
+
+### zellij
+
+```sh
+sudo dnf install pkg-config openssl-devel perl # needed to compile
+cargo install zellij # gitui
+```
