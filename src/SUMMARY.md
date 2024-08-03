@@ -18,3 +18,4 @@
 - [Autres]()    
   - [Latex](./others/latex.md)
   - [Typst](./others/typst.md)
+  - [YT](./yt.md)
